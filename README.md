@@ -145,7 +145,5 @@ Issue や Pull Request は歓迎します。
 CrafStruct は個人開発として制作しています。
 
 作者：Takeo Saito  
-お問い合わせ：GitHub Issue にて受け付けています。
-
-- GitHub Issues（公開で問題ない内容の場合）
-- GitHub noreply メール：262238501+takeo-2026@users.noreply.github.com（非公開）
+ご質問・ご連絡は Issues からお願いします。  
+質問や相談は Discussions へお願いします。
