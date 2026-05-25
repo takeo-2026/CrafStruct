@@ -155,8 +155,6 @@ Issue や Pull Request は歓迎します。
 寄せられた内容は今後の改善の参考にさせていただきます。
 
 ## 👤 作者
-CrafStruct は個人開発として制作しています。
-
 作者：Takeo Saito  
 ご質問・ご連絡は Issues からお願いします。  
 質問や相談は Discussions へお願いします。
