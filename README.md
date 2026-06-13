@@ -141,6 +141,10 @@ Issue や Pull Request は歓迎します。
 個人開発のため、いただいたご報告に対して即時の対応や修正をお約束するものではありません。  
 寄せられた内容は今後の改善の参考にさせていただきます。
 
+## 📘 関連記事（Qiita）
+CrafStruct を開発した背景や設計思想については、Qiita にまとめています。
+https://qiita.com/pgb01471/items/cceb8f4f293873c7e2cd
+
 ## 👤 作者
 作者：Takeo Saito  
 ご質問・ご連絡は Issues からお願いします。  
