@@ -2,7 +2,7 @@
 ![platform](https://img.shields.io/badge/platform-Windows-blue)
 # 業務フロー & 業務要件定義書 作成ツール — CrafStruct
 
-**CrafStruct** は、業務フローを“図形配置のストレスなく”描けるツールです。
+**CrafStruct** は、業務フローを「図形配置のストレスなく」描けるツールです。
 また、業務フローで作成した内容をもとに業務要件定義書が自動生成され、両者の編集内容は相互に反映されます。 
 
 ZIP を解凍し、同梱の **CrafStruct.exe** を実行するだけで利用できます。
