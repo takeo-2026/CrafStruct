@@ -159,5 +159,5 @@ https://qiita.com/pgb01471/items/cceb8f4f293873c7e2cd
 
 ## 👤 作者
 作者：Takeo Saito  
-ご質問・ご連絡は Issues からお願いします。  
-質問や相談は Discussions へお願いします。
+
+https://github.com/takeo-2026?utm_source=copilot.com
