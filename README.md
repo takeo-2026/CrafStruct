@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-1-blue)
+![release](https://img.shields.io/github/v/release/takeo-2026/AiTalkLog-Release)
 ![platform](https://img.shields.io/badge/platform-Windows-blue)
 
 # 🚀 CrafStruct — 業務フローと要件定義書を“完全同期”で作成できる新しい標準ツール
