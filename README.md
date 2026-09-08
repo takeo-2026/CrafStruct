@@ -1,7 +1,7 @@
 ![release](https://img.shields.io/github/v/release/takeo-2026/CrafStruct)
 ![platform](https://img.shields.io/badge/platform-Windows-blue)
 
-# 🚀 CrafStruct — 業務フローと業務要件定義書を“完全同期”で作成できる新しいツール
+# CrafStruct — 業務フローと業務要件定義書を完全同期で扱えるツール
 
 **CrafStruct は、業務フローと業務要件定義書を一体で扱える唯一のデスクトップアプリです。**  
 フローで描いた内容がそのまま要件定義書に反映され、粒度・整合性・項目体系が自動で揃います。
